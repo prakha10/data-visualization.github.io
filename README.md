@@ -1,1 +1,1 @@
-# data-visualization.github.io
+# What  i want to do this semester is to update my knowledge and adresses fundamental concepts and techniques in summarizing data, managing, and presenting pictorial representations of complex data for effective data-driven decision making and work together with my claass mated to reach these goals.
